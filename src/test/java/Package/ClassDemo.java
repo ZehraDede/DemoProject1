@@ -9,6 +9,11 @@ public class ClassDemo {
 
         System.out.println("A colaborator updated");
 
+
+
+        System.out.println("A collaborator made new updates");
+        
+
     }
 
     //Hello everybody
